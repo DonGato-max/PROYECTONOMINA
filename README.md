@@ -14,7 +14,8 @@ La idea es tener en un mismo sistema los datos de la empresa, cargos, empleados,
 
 ## Archivos del proyecto
 
-- [Documento de análisis, diseño e implementación](Documentation/Analisis_Diseno_Implementacion.pdf)
+- [Documento de análisis, diseño e implementación (PDF)](Documentation/Analisis_Diseno_Implementacion.pdf)
+- [Versión de consulta en Markdown](Documentation/Analisis_Diseno_Implementacion.md) (alternativa si el PDF no abre)
 - [Paquete de base de datos SQL Server](Database/NominaSystem_BaseDatos.zip)
 
 ## Base de datos
